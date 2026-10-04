@@ -1,4 +1,5 @@
 import './App.css'
+import drCandiceJames from './assets/dr-candice-james.jpg'
 
 function App() {
   return (
@@ -88,7 +89,7 @@ function App() {
 
             <div className="practitioner-image">
               <img
-                src="/src/assets/dr-candice-james.jpg"
+                src={drCandiceJames}
                 alt="Dr Candice James, registered psychologist"
               />
             </div>
