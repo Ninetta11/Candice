@@ -87,13 +87,6 @@ function App() {
 
           <div className="container about-grid">
 
-            <div className="practitioner-image">
-              <img
-                src={drCandiceJames}
-                alt="Dr Candice James, registered psychologist"
-              />
-            </div>
-
             <div className="about-text">
 
               <p className="eyebrow">
@@ -144,6 +137,13 @@ function App() {
                 Get in touch →
               </a>
 
+            </div>
+
+            <div className="practitioner-image">
+              <img
+                src={drCandiceJames}
+                alt="Dr Candice James, registered psychologist"
+              />
             </div>
 
           </div>
