@@ -307,6 +307,11 @@ function App() {
                 admin@mindtrekpsych.com
               </a>
             </p>
+            <p className="contact-email">
+              <a href="tel:0479 152 200">
+                0479 152 200
+              </a>
+            </p>
 
           </div>
 
